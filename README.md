@@ -1,0 +1,1 @@
+# Progamers-DetailsPodSpec
